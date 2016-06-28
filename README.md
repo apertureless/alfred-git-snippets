@@ -11,12 +11,13 @@ However you will need the powerpack!
 
 | Name | Keyword | Snippet |
 | ------------- | ------------- | ------------- |
-| Initital commit  | initial | 🎉 Initial commit |
-| Add new dependency  | adddep  | ➕ Add dependency |
-| Add new feature  | addnew  | ✨ Add |
-| Add test  | addtest  | ✅ Add test |
-| Fix a bug  | fix | 🐛 Fix |
-| New Release  | rel | 💎 Release new version xx |
-| Remove | rem | 🔥 Remove |
-| Update dependency | updep | ⬆️ Update dependency |
-| Update documentation | updoc | 📝 Update |
+| Initital commit  | !initial | 🎉 Initial commit |
+| New Release  | !rel | 💎 Release new version xx |
+| Add new dependency  | !adddep  | ➕ Add dependency |
+| Add new feature  | !addnew  | ✨ Add |
+| Add test  | !addtest  | ✅ Add test |
+| Fix a bug  | !fix | 🐛 Fix |
+| Remove | !rem | 🔥 Remove |
+| Remove dependency | !remdep | ➖ Remove dependency |
+| Update dependency | !updep | ⬆️ Update dependency |
+| Update documentation | !updoc | 📝 Update |
